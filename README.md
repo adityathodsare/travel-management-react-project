@@ -16,6 +16,6 @@ This is a basic travel management application built with React and React Router 
 
 For a visual demonstration of the application, please watch the following video:
 
-[[Travel Management React Project Demo](https://youtu.be/312OMKZoJPs?si=JLUO5hkTN_KRoJfX)
+[Travel Management React Project Demo](https://youtu.be/312OMKZoJPs?si=JLUO5hkTN_KRoJfX)
 
 
